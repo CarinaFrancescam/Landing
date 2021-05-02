@@ -1,0 +1,50 @@
+body{
+background-color: #33B2FF;
+font-family: Courier;
+column-gap: "20px"
+}
+
+
+.img-circle{
+border-radius: 70% 
+}	
+#Profile{border-radius: 50% 
+}
+
+
+h2{
+  align-content: center;
+ justify-content: 	
+ font-family: Helvetica;
+ font-stretch: 10px
+ padding:30px;
+font-weight: 900px;
+ box-shadow: 0px 10px 30px;
+color:#9400D3;
+font-size: 24px,
+font-weight: 500;
+}
+a{
+text-decoration-style:none
+color: ;
+}
+a: hover {
+color:#6B72E1;
+}
+/*Custom design with class (99% of your design)*/
+.Container { 
+ width:700px;
+ margin:40px auto;	
+}
+
+  @media(max-width:500px)
+ card-white{
+ background-color: #191970;
+padding: 40px
+box-shadow: #191970;
+border-radius: 4px;
+margin:20px 0px;
+text-align: center;
+}
+ 
+
